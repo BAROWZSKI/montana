@@ -1,2 +1,2 @@
 # montana
-Bu websiteme htttps://barowzski.github.io/montana adresinden ulaşabilirsiniz
+Bu websiteme https://barowzski.github.io/montana adresinden ulaşabilirsiniz
